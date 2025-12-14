@@ -7,7 +7,6 @@ The Smart Water Quality Monitoring System is an IoT-based project designed to co
 ## Acknowledgements
 
 We would like to extend our sincere gratitude to the following individuals and organizations whose support and contributions have made this IoT project possible:
-
 [Rahul Mahato] for providing invaluable guidance, feedback, and motivation throughout the project.
 [Techno India University] for offering the necessary resources, infrastructure, and tools that helped facilitate the successful completion of this project.
 [Arduino IDE] for maintaining and developing the libraries and frameworks (e.g.,C++, Arduino, etc.) that played a crucial role in building the IoT system.
